@@ -1,0 +1,16 @@
+.box {
+	width: 200px;
+	height: 200px;
+	border: 10px solid black;
+	background-color: aqua;
+	margin-bottom: 50px; /* This creates space at the bottom of this box */
+}
+
+.box1 {
+	width: 200px;
+	height: 200px;
+	border: 10px solid red;
+	background-color: lightgray;
+}
+
+/* This is how you block out comments in css */
